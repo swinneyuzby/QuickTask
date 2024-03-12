@@ -1,0 +1,26 @@
+{
+"name": "quick-taskgfd",
+"version": "1.0.0",
+"description": "QuickTask is a versatile task management application designed to streamline your workflow and boost productivity. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/swinneyuzby/QuickTask.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "swinneyuzby",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
